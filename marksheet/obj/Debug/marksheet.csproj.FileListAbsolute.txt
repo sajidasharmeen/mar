@@ -1,0 +1,48 @@
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\bin\Debug\marksheet.exe.config
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\bin\Debug\marksheet.exe
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\bin\Debug\marksheet.pdb
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.Properties.Resources.resources
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.csproj.GenerateResource.Cache
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.exe
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.pdb
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.Form1.resources
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.Form2.resources
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.game.resources
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.csprojResolveAssemblyReference.cache
+C:\Users\fatima\Desktop\C#\Forms\marksheet\marksheet\obj\Debug\marksheet.Form4.resources
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\bin\Debug\marksheet.exe.config
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.exe
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.pdb
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\bin\Debug\marksheet.exe
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\bin\Debug\marksheet.pdb
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.csprojResolveAssemblyReference.cache
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.Form1.resources
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.Form2.resources
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.Form4.resources
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.game.resources
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.Properties.Resources.resources
+\\server2\Faculty_Drive\Fatima Shakeel\forms\marksheet\marksheet\obj\Debug\marksheet.csproj.GenerateResource.Cache
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\bin\Debug\marksheet.exe.config
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.exe
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.pdb
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\bin\Debug\marksheet.exe
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\bin\Debug\marksheet.pdb
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.csprojResolveAssemblyReference.cache
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.Form1.resources
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.Form2.resources
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.Form4.resources
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.game.resources
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.Properties.Resources.resources
+Z:\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.csproj.GenerateResource.Cache
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\bin\Debug\marksheet.exe.config
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.exe
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.pdb
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\bin\Debug\marksheet.exe
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\bin\Debug\marksheet.pdb
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.csprojResolveAssemblyReference.cache
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.Form1.resources
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.Form2.resources
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.Form4.resources
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.game.resources
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.Properties.Resources.resources
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\marksheet_1b\marksheet\obj\Debug\marksheet.csproj.GenerateResource.Cache
